@@ -1,0 +1,11 @@
+Missing hypothesis
+Make the "age" binning
+Give the results in percentage
+
+What is "False Positive"
+What is "Precision"
+
+What is "Bias and Variance"
+Variance - Variance is calculated between different data samples.
+
+What is overfitting and underfitting
